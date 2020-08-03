@@ -34,7 +34,7 @@ TDCgui3.mlapp - MATLAB App Designer graphical user interface application.
 Various figures and schematics of the TDC design.
 
 **2-channel TDC system example project**
-1. Open Vivado
+1. Open Vivado 2018.2
 2. Using the Tcl Console, navigate to the "zynq_tdc/" folder and execute "source make_project.tcl"
 3. Complete the synthesis & implementation steps
 
